@@ -1,1 +1,1 @@
-# angular2-course
+#  Angular 2 (with typescript) app which supports CURD operations. 
